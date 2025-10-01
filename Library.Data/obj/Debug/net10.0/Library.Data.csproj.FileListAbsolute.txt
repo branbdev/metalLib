@@ -1,0 +1,14 @@
+/home/redshreds/dev/current_projects/metalLib/Library.Data/bin/Debug/net10.0/Library.Data.deps.json
+/home/redshreds/dev/current_projects/metalLib/Library.Data/bin/Debug/net10.0/Library.Data.runtimeconfig.json
+/home/redshreds/dev/current_projects/metalLib/Library.Data/bin/Debug/net10.0/Library.Data.dll
+/home/redshreds/dev/current_projects/metalLib/Library.Data/bin/Debug/net10.0/Library.Data.pdb
+/home/redshreds/dev/current_projects/metalLib/Library.Data/obj/Debug/net10.0/Library.Data.csproj.AssemblyReference.cache
+/home/redshreds/dev/current_projects/metalLib/Library.Data/obj/Debug/net10.0/Library.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/redshreds/dev/current_projects/metalLib/Library.Data/obj/Debug/net10.0/Library.Data.AssemblyInfoInputs.cache
+/home/redshreds/dev/current_projects/metalLib/Library.Data/obj/Debug/net10.0/Library.Data.AssemblyInfo.cs
+/home/redshreds/dev/current_projects/metalLib/Library.Data/obj/Debug/net10.0/Library.Data.csproj.CoreCompileInputs.cache
+/home/redshreds/dev/current_projects/metalLib/Library.Data/obj/Debug/net10.0/Library.Data.dll
+/home/redshreds/dev/current_projects/metalLib/Library.Data/obj/Debug/net10.0/refint/Library.Data.dll
+/home/redshreds/dev/current_projects/metalLib/Library.Data/obj/Debug/net10.0/Library.Data.pdb
+/home/redshreds/dev/current_projects/metalLib/Library.Data/obj/Debug/net10.0/Library.Data.genruntimeconfig.cache
+/home/redshreds/dev/current_projects/metalLib/Library.Data/obj/Debug/net10.0/ref/Library.Data.dll
